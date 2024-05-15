@@ -2,7 +2,7 @@
 
 **## I'm a software developer with a passion for open-source projects and AI research. Welcome to my GitHub profile!**
 
-  ![Coding GIF](<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>)
+  ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkb3dkandhbDFkZDBubWhmOG5wdnhqNTZkamM1c255MThoazZmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ## About Me
