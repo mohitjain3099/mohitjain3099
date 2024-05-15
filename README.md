@@ -26,7 +26,5 @@ I'm a software developer with a passion for open-source projects and AI research
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjain3099&layout=compact&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/janedoe)
-- [Twitter](https://twitter.com/janedoe)
-- [Personal Website](https://janedoe.dev)
+- [LinkedIn](https://www.linkedin.com/in/mohit-jain-3008/)
 
