@@ -1,6 +1,6 @@
 # Hi there, I'm Mohit Jain! 👋
 
-<div style="text-align: center;">
+<div align="center">
   <h3><b>I'm a software developer from the United States with a passion for software development and AI. Welcome to my GitHub profile!</b></h3>
 </div>
 
