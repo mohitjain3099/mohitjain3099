@@ -3,7 +3,7 @@
 **## I'm a software developer with a passion for open-source projects and AI research. Welcome to my GitHub profile!**
 
 <div style="text-align:center;">
-  ![Coding GIF](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif))
+  ![Coding GIF](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif)
 </div>
 
 
