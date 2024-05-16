@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mohit Jain! 👋</h1>
 
-<h3><b>I'm a software developer from the United States with a passion for software development and AI. </br>Welcome to my GitHub profile!</b></h3>
+<h3><b>I'm a software developer from United States with a passion for software development and AI. </br>Welcome to my GitHub profile!</b></h3>
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkb3dkandhbDFkZDBubWhmOG5wdnhqNTZkamM1c255MThoazZmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
