@@ -13,6 +13,11 @@
 - 📫 How to reach me: [mohit.jain3099@gmail.com](mailto:mohit.jain3099@gmail.com)
 - ⚡ Fun fact: I love chess and nature photography
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitjain3099" alt="mohitjain3099" /></a> </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mohitjain3099?font=milonga)
+<a href="https://leetcode.com/mohitjain3099"> complete view here  </a>
+
 ## Projects
 - [Sharebite](https://github.com/mohitjain3099/Sharebite) - Food sharing web application focusing on solving the problem of world hunger. Developed a full stack web app using React/ Redux frontend and mongoDB/express.js/Node.js backend for combating food waste.
 - [NU Car Rental](https://github.com/mohitjain3099/NU-Car-Rental) - This project aims to provide users with a seamless experience for renting cars and scheduling driving classes, all in one platform! Developed using HTML, CSS and Bootstrap for frontend java with Spring Boot for backend. Implemented all object oriented principles for scalability.
