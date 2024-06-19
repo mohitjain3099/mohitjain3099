@@ -30,6 +30,8 @@
 ![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitjain3099&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjain3099&layout=compact&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitjain3099&" alt="mohitjain3099" /></p>
+
 ## Connect with Me
 <a href="https://www.linkedin.com/in/mohit-jain-3008/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/mhit_jain/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
