@@ -5,10 +5,10 @@
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkb3dkandhbDFkZDBubWhmOG5wdnhqNTZkamM1c255MThoazZmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## About Me
-- 🔭 I’m currently working on Sharebite- A web development project
-- 🌱 I’m currently learning about Data Structures and Algorithm using Python.
-- 👯 I’m looking to collaborate on machine learning projects
-- 🤔 I’m looking for help with reinforcement learning
+- 🔭 I’m currently working on building my own interpreter using Python.
+- 🌱 I’m currently learning about Data Structures and Algorithm.
+- 👯 I’m looking to collaborate on creating cool web apps.
+- 🤔 I’m looking for help with system design.
 - 💬 Ask me about Software Engineering, Web Development and Programming.
 - 📫 How to reach me: [mohit.jain3099@gmail.com](mailto:mohit.jain3099@gmail.com)
 - ⚡ Fun fact: I love chess and nature photography
